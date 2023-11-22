@@ -1,1 +1,2 @@
-A chatting application JAVA project made with the help of JAVA Swing, AWT (Abstract Window Toolkit) and socket programming. This application/program is a good example of using java.io, java.net to create chat application
+A chatting application JAVA project made with the help of JAVA Swing, AWT (Abstract Window Toolkit) and socket programming. This application/program is a good example of using java.io, java.net to create chat application.
+It is made up of 2 applications the client application that runs on user PC and server application which runs on any pc on the network, to start the chatting client should get connected to the server.
